@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "runbook/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "runbook"
+  spec.name          = "careacademy-runbook"
   spec.version       = Runbook::VERSION
   spec.authors       = ["pblesi"]
   spec.email         = ["code@getbraintree.com"]
